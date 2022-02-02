@@ -1,7 +1,7 @@
 # Title
 Super Interesting Paper 34
 
-## Author
+## Authors
 Vicente
 John Smith
 
@@ -22,3 +22,7 @@ We simulated how interesting papers could be, using a random interest generator.
 ### Methodology
 
 We compared our measurements of interestingness with a model simulation. The model is detailed in Smith et al. (2002).
+
+### Results
+
+In conclusion this is very interesting.
