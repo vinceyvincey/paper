@@ -30,3 +30,7 @@ In conclusion this is very interesting.
 ### Figures
 
 Some interesting figures.
+
+### Conclusions
+
+We have learnt a lot haven't we.
