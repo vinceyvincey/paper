@@ -2,8 +2,8 @@
 Super Interesting Paper 34
 
 ## Authors
-John Smith
-Vicente
+John Smith, (UoS),
+Vicente Orts, (UoM)
 
 ### Introduction
 
