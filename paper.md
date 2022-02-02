@@ -34,3 +34,7 @@ Some interesting figures.
 ### Conclusions
 
 We have learnt a lot haven't we.
+
+### Acknowledgements
+
+We would like to thank our EU funding body for their support.
