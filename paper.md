@@ -13,3 +13,7 @@ The interesting things in this article are more interesting than those in our la
 Who et al. (1998) have conducted several studies in this region, however none of them are interesting today.
 
 We did this to push the forefront of interesting papers.
+
+### Simulations
+
+We simulated how interesting papers could be, using a random interest generator.
