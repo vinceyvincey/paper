@@ -18,3 +18,7 @@ We did this to push the forefront of interesting papers.
 ### Simulations
 
 We simulated how interesting papers could be, using a random interest generator.
+
+### Methodology
+
+We compared our measurements of interestingness with a model simulation. The model is detailed in Smith et al. (2002).
