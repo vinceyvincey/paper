@@ -26,3 +26,7 @@ We compared our measurements of interestingness with a model simulation. The mod
 ### Results
 
 In conclusion this is very interesting.
+
+### Figures
+
+Some interesting figures.
